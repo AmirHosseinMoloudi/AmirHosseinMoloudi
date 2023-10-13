@@ -2,7 +2,7 @@
 
 ## **I'm a Web Developer, Designer, and College Student!**
 
-- 📫 How to reach me: <a src="mailto:ahmoloudi786@gmail.com">mailto:ahmoloudi786@gmail.com</a>
+- 📫 How to reach me: <a src="mailto:ahmoloudi786@gmail.com">ahmoloudi786@gmail.com</a>
 
 ### **Connect with me:**
 
@@ -16,7 +16,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=Laravel)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?style=flat-square&logo=Codeigniter)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?style=flat-square&logo=Vue)
+![Vuejs](https://img.shields.io/badge/-Vuejs-000?style=flat-square&logo=Vuejs)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=flat-square&logo=Wordpress)
 
 <br/><br/>
