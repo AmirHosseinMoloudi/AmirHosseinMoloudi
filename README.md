@@ -8,7 +8,7 @@
 
 <a href="mailto:ahmoloudi786@gmail.com"><img align="left" alt="email" title="Email" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png" /></a>
 
-<br/>
+<br/><br/>
 ## **My Tech Stack**
 
 
@@ -19,7 +19,7 @@
 ![VueJs](https://img.shields.io/badge/-VueJs-000?style=flat-square&logo=VueJs)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=flat-square&logo=Wordpress)
 
-<br/>
+<br/><br/>
 ## **Stats**
 
   [![AmirHosseinMoloudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinMoloudi&show_icons=true&include_all_commits=true&theme=algolia&count_private=true&line_height=40)](https://github.com/AmirHosseinMoloudi/AmirHosseinMoloudi)
