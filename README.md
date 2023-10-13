@@ -16,7 +16,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=Laravel)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?style=flat-square&logo=Codeigniter)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=React)
-![Vuejs](https://img.shields.io/badge/-Vuejs-000?style=flat-square&logo=Vuejs)
+![VueJs](https://img.shields.io/badge/-VueJs-000?style=flat-square&logo=VueJs)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?style=flat-square&logo=Wordpress)
 
 <br/><br/>
