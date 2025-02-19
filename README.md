@@ -36,14 +36,28 @@ I have extensive experience with a wide range of web technologies, including bot
 * **Git and GitHub:**
 * **Testing:**
 
-<!-- GitHub Stats - Keep This -->
+<!-- GitHub Stats - Keep This and ADD MORE -->
 ## GitHub Stats
-
-[![AmirHosseinMoloudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirHosseinMoloudi&show_icons=true&include_all_commits=true&theme=algolia&count_private=false&line_height=40)](https://github.com/AmirHosseinMoloudi/AmirHosseinMoloudi)
-[![AmirHosseinMoloudi' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinMoloudi&langs_count=5&theme=algolia)](https://github.com/AmirHosseinMoloudi/AmirHosseinMoloudi)
+<!-- ALL STATS IN ONE ROW -->
+<p align="center">
+  <!-- Your existing stats -->
+  <a href="https://github.com/AmirHosseinMoloudi/AmirHosseinMoloudi">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinMoloudi&show_icons=true&include_all_commits=true&theme=algolia&count_private=false&line_height=40" alt="AmirHosseinMoloudi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/AmirHosseinMoloudi/AmirHosseinMoloudi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinMoloudi&langs_count=5&theme=algolia" alt="AmirHosseinMoloudi' Top Langs" />
+  </a><br/>
+  <!-- New stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinMoloudi&theme=algolia" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AmirHosseinMoloudi&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a><br/>
+    <img src="https://profile-counter.glitch.me/AmirHosseinMoloudi/count.svg" alt="Visitor Count" />
+</p>
 
 <!-- Call to Action (Optional) -->
 ### Let's Build Something Great Together!
 
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
-
