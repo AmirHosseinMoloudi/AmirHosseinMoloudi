@@ -2,7 +2,7 @@
 
 **Seasoned Web Developer | Problem-Solver | Code Enthusiast**
 
-I'm a highly experienced web developer based in Iran, passionate about crafting robust and user-friendly web applications. I thrive on tackling complex challenges and delivering high-quality digital solutions.  I'm also a college student, constantly learning and expanding my skillset.
+I'm a highly experienced web developer, passionate about crafting robust and user-friendly web applications. I thrive on tackling complex challenges and delivering high-quality digital solutions.  I'm also constantly learning and expanding my skillset.
 
 <img src="https://c.tenor.com/5SWZs0T-tuAAAAAC/thumbs-up-kid.gif" align="right" width="100" />
 
