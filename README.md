@@ -95,6 +95,13 @@ I have extensive experience with a wide range of web technologies, including bot
     gitdimmed, matrix, apprentice, dark_dimmed, dark_lover, kimbie_dark
 -->
 
+<!-- CodeWars Badge -->
+<img src="https://www.codewars.com/users/AmirHosseinMoloudi/badges/large" alt="CodeWars Badge" />
+
+<a href="https://stackoverflow.com/users/16536522/amirhossein-moloudi">
+    <img src="https://stackoverflow.com/users/flair/16536522.png" width="208" height="58" alt="profile for YOUR_STACK_OVERFLOW_USERNAME at Stack Overflow, Q&A for professional and enthusiast programmers" title="profile for YOUR_STACK_OVERFLOW_USERNAME at Stack Overflow, Q&A for professional and enthusiast programmers">
+</a>
+
 ### Let's Build Something Great Together!
 
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
