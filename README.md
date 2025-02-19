@@ -42,10 +42,6 @@ I have extensive experience with a wide range of web technologies, including bot
        * **Adobe Photoshop:** Experience using Adobe Photoshop.
        * **Adobe Illustrator:** Experience using Adobe Illustrator.
 
-## Featured Projects
-
-*This is the most important section!* Showcase your best work.  (Same as before - no changes needed here yet)
-
 ## GitHub Stats
 
 <p align="center">
