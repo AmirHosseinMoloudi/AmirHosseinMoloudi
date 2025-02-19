@@ -2,7 +2,7 @@
 
 **Seasoned Web Developer | Problem-Solver | Code Enthusiast**
 
-I'm a highly experienced web developer based in Iran, passionate about crafting robust and user-friendly web applications. I thrive on tackling complex challenges and delivering high-quality digital solutions. I'm also a college student, constantly learning and expanding my skillset.
+I'm a highly experienced web developer, passionate about crafting robust and user-friendly web applications. I thrive on tackling complex challenges and delivering high-quality digital solutions. I'm also constantly learning and expanding my skillset.
 
 <img src="https://c.tenor.com/5SWZs0T-tuAAAAAC/thumbs-up-kid.gif" align="right" width="100" />
 
@@ -25,19 +25,18 @@ I have extensive experience with a wide range of web technologies, including bot
 **Front-End:**
 
 *   **JavaScript:** Solid understanding of core JavaScript principles and modern ES6+ features.
-*   **React:** Experience building interactive and dynamic user interfaces with React. I'm familiar with component-based architecture, state management (e.g., Redux, Context API - *mention if used*), and other React ecosystem libraries.
 *   **Vue.js:** Experience creating performant and approachable user interfaces with Vue.js. Familiar with its component system, reactivity, and single-file components.
-*   **HTML & CSS:** Deep understanding of semantic HTML and CSS for creating accessible and well-structured web pages.  (Mention any CSS preprocessors you use, e.g., Sass, Less).
-*  **TypeScript:** Familiarity with TypeScript for adding static typing to JavaScript projects, enhancing code quality and maintainability.(Add if you have)
+*   **HTML & CSS:** Deep understanding of semantic HTML and CSS for creating accessible and well-structured web pages.
+*  **TypeScript:** Familiarity with TypeScript for adding static typing to JavaScript projects, enhancing code quality and maintainability.
 
 **CMS & Other Tools:**
 
 *   **WordPress:** Experience developing and customizing WordPress themes and plugins. I'm comfortable working with the WordPress API and creating custom functionality.
 *   **Git and GitHub:** I use Git for version control and GitHub for collaboration and project management. I'm familiar with branching, merging, pull requests, and other essential Git workflows. This ensures clean, organized, and collaborative code development.
-*   **Testing:** I am familiar with various testing methodologies, including unit testing, integration testing, and end-to-end testing. I strive to write well-tested code to ensure reliability and prevent regressions. ( *Mention specific testing frameworks you use, e.g., PHPUnit for PHP, Jest/Mocha/Cypress for JavaScript.*)
-* **Other relevant tools:** (Add tools you use. Examples:)
+*   **Testing:** I am familiar with various testing methodologies, including unit testing, integration testing, and end-to-end testing. I strive to write well-tested code to ensure reliability and prevent regressions. 
+* **Other relevant tools:** 
     *  **Webpack/Babel:** Experience with build tools like Webpack and Babel for bundling and transpiling JavaScript code.
-    * **UI Design Tools:** (If you use any design tools)
+    * **UI Design Tools:** 
        *  **Figma:** Experience using Figma.
        * **Adobe XD:** Experience using Adobe XD.
        * **Adobe Photoshop:** Experience using Adobe Photoshop.
