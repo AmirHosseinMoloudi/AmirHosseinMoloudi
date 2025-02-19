@@ -33,8 +33,8 @@ I have extensive experience with a wide range of web technologies, including bot
 **CMS & Other Tools:**
 
 *   **WordPress:**  Experience developing and customizing WordPress themes and plugins.  I'm comfortable working with the WordPress API and creating custom functionality.
-* **Git and GitHub:**
-* **Testing:**
+*   **Git and GitHub:**  I use Git for version control and GitHub for collaboration and project management.  I'm familiar with branching, merging, pull requests, and other essential Git workflows. This ensures clean, organized, and collaborative code development.
+*   **Testing:**  I am familiar with various testing methodologies, including unit testing, integration testing, and end-to-end testing. I strive to write well-tested code to ensure reliability and prevent regressions.
 
 <!-- GitHub Stats - Keep This and ADD MORE -->
 ## GitHub Stats
