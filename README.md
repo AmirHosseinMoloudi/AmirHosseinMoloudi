@@ -9,7 +9,7 @@ I'm a highly experienced web developer, passionate about crafting robust and use
 ### Get in Touch
 
 *   **Email:** [ahmoloudi786@gmail.com](mailto:ahmoloudi786@gmail.com)
-*   **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/platform-developer-947aa31ba/) &#x1F517;
+*   **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/amirhossein-moloudi-947aa31ba/) &#x1F517;
 
 ## My Tech Stack
 
